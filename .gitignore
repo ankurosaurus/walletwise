@@ -23,7 +23,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Scripts
-make_commits.bat
-
